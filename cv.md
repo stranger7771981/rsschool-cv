@@ -1,16 +1,14 @@
- ***
-### [RS school cv](https://rs.school/)
-***
+
 # Denis Uglov
-***
+
 ## Contacts:
 * **Email:** denisuglov1981@gmail.com
 * **Github:** stranger7771981
 * **Telegram:** @Den_gram
-***
+
 ## Personal Profile Statement
 I am a flexible person seeking employment which will allow development, growth and make use of my existing skills. I want to finish my RS school course and become a frontend developer. My goal is to be part of the Epam team.
-***
+
 ## Skills:
 * **HTML/CSS**
 * **Python**
@@ -18,7 +16,7 @@ I am a flexible person seeking employment which will allow development, growth a
 * **Unity/C#**
 * **Git**
 * **Linux**
-***
+
 ## Code Example:
 ```
 function solution(digits){
@@ -33,15 +31,15 @@ function solution(digits){
   return answer;
 }
 ```
-***
+
 ## Experience in frontend development:
 in progress...
-***
+
 ## Education:
 * [ICSI, UK (International CyberSecurity Institute)](https://www.credential.net/86db0786-2b57-4e76-ab8f-c72d649b2aa0)
 * [Mail.ru group Анализ безопасности веб-проектов](https://stepik.org/cert/362069)
 * [TryHackMe](https://tryhackme.com/p/hackaliens)
-***
+
 ## English Level:
 I have intermediate English level (Range of B1 INTERMEDIATE to B2 UPPER INTERMEDIATE, according to the guidelines set by the Common European Framework of Reference (CEFR).)
 
