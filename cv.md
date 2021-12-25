@@ -40,7 +40,7 @@ in progress...
 ## Education:
 * [ICSI, UK (International CyberSecurity Institute)](https://www.credential.net/86db0786-2b57-4e76-ab8f-c72d649b2aa0)
 * [Mail.ru group Анализ безопасности веб-проектов](https://stepik.org/cert/362069)
-* [TryHackMe](https://tryhackme.com/p/hackaliens) ![badge](https://tryhackme-badges.s3.amazonaws.com/hackaliens.png)
+* [TryHackMe](https://tryhackme.com/p/hackaliens)
 ***
 ## English Level:
 I have intermediate English level (Range of B1 INTERMEDIATE to B2 UPPER INTERMEDIATE, according to the guidelines set by the Common European Framework of Reference (CEFR).)
