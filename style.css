@@ -1,3 +1,36 @@
+html {
+  scroll-behavior: smooth; 
+}
+
+* {
+  box-sizing: border-box;
+}
+
 body {
-    background-color: lightblue;
-  }
+  display: flex;
+  flex-direction: column;
+}
+
+.header {
+  background-color: #194b62;
+}
+
+.container {
+  max-width: 1440px;
+  margin: 0 auto;
+  min-height: 50px;
+}
+
+.nav-list {
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+  list-style: none;
+}
+
+.nav-link {
+  position: relative;
+  padding: 0 22px;
+  font-size: 20px;
+  color: #fff; 
+}
